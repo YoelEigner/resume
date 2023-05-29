@@ -53,7 +53,7 @@ Systems Administrator 	 2018 - 2021
 -	Strong Programming skills: React (skilled), Node.js (skilled), React. Native (experienced)
 -	Data-related skills: MySQL (skilled), MongoDB (experienced)
 -	Soft skills: Problem-solver, ability to streamline processes and develop efficiencies within global teams
--	Familiar with other technologies incl: Python, AWS, Redux
+-	Familiar with other technologies incl: Python, AWS
 -	Domain knowledge in systems administration, operating systems, active directory, finance, and healthcare
 
 ## Education & Certification
