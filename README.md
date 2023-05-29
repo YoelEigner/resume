@@ -16,12 +16,12 @@
 
 ### Lockheed Martin (US-based Security Company) | Tel Aviv, Israel
 #### Full Stack Developer & Systems Administrator	2021 - Present
--	Design & develop software to address and track needs of the company’s entire EMEA operations 
--	Promoted to develop efficiencies through software programming; ongoing projects includes:
--	Computer hardware tracking software to streamline equipment search & purchase process (React.JS, Redux, MongoDB);
--	Computer OS version tracking to alert technicians regarding upgrades (React, Redux, Node.JS)
--	Single page application internal billing information data search and display (React.JS, Node.JS)
--	Support other needs as they arise, incl. developing & maintaining web applications with MySQL, APIs 
+- Design & develop software to address and track needs of the company’s entire EMEA operations 
+- Promoted to develop efficiencies through software programming; ongoing projects includes:
+  - Computer hardware tracking software to streamline equipment search & purchase process (React.JS, Redux, MongoDB);
+  -	Computer OS version tracking to alert technicians regarding upgrades (React, Redux, Node.JS)
+  - Single page application internal billing information data search and display (React.JS, Node.JS)
+  - Support other needs as they arise, incl. developing & maintaining web applications with MySQL, APIs 
 
 Systems Administrator 	 2018 - 2021
 -	Maintained network and computer hardware for four offices in the EMEA region
