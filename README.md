@@ -15,7 +15,7 @@
 ## Relevant Work Experience
 
 ### Lockheed Martin (US-based Security Company) | Tel Aviv, Israel
-#### Full Stack Developer & Systems Administrator	2021 - Present
+#### Full Stack Developer	2021 - Present
 - Design & develop software to address and track needs of the company’s entire EMEA operations 
 - Promoted to develop efficiencies through software programming; ongoing projects includes:
   - Computer hardware tracking software to streamline equipment search & purchase process (React.JS, Redux, MongoDB);
