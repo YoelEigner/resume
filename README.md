@@ -14,7 +14,7 @@
 
 ## Relevant Work Experience
 
-### Lockheed Martin | Tel Aviv, Israel
+### Lockheed Martin | Fullstack engineer | Tel Aviv, Israel
 #### Full Stack Developer	2021 - Present
 - Design & develop software to address and track needs of the company’s entire EMEA operations 
 - Promoted to develop efficiencies through software programming; ongoing projects includes:
