@@ -1,6 +1,5 @@
 # Yoel Eigner
 
-- Phone: +972-54-260-5930
 - Email: joele8323@gmail.com
 - [GitHub](https://github.com/yoeleigner)
 - [LinkedIn](https://www.linkedin.com/in/yoel-eigner-407569220/)
