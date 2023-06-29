@@ -3,6 +3,7 @@
 - Email: joele8323@gmail.com
 - [GitHub](https://github.com/yoeleigner)
 - [LinkedIn](https://www.linkedin.com/in/yoel-eigner-407569220/)
+- [Portfolio](http://ec2-54-159-17-173.compute-1.amazonaws.com/portfolio/)
 - Citizenships: Canada, USA, Israel  
 
 ## About Me
